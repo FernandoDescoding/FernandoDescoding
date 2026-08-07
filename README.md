@@ -6,6 +6,7 @@ Bem-vindo ao meu perfil e mundo Digital! 👋
 Sou o Fernando, Programador Front-End.
 
 Fiz parte do curso Transforme-se do PROA.
+Criando em colaboração com meu grupo uma empresa fictícia ConectaTalentos. 
 
 💻 Com conhecimento em:
 

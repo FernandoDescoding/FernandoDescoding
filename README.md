@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images.jpeg" width="100%">
+<img src="images.jpeg" width="50%">
 
 Bem-vindo ao meu perfil! 👋
 Sou o Fernando, Programador Front-End.

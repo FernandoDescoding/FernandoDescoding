@@ -2,7 +2,7 @@
 
 <img src="images.jpeg" width="50%">
 
-Bem-vindo ao meu perfil! 👋
+Bem-vindo ao meu perfil e mundo Digital! 👋
 Sou o Fernando, Programador Front-End.
 
 Fiz parte do curso Transforme-se do PROA.
